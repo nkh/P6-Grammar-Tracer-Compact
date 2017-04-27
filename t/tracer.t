@@ -1,7 +1,7 @@
 use v6;
 
 use Test;
-use Grammar::Tracer;
+use Grammar::Tracer::Compact;
 
 plan 1;
 

@@ -5,6 +5,7 @@
 "name" : "Grammar::Tracer::Compact",
 "version" : "1.0",
 "license" : "Artistic-2.0",
+"auth" : "zef:nkh",
 "authors" : ["Nadim Khemir"],
 "description" : "Simple tracing for Perl 6 grammars",
 "build-depends" : [ "Terminal::ANSIColor" ],
